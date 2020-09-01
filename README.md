@@ -18,6 +18,9 @@
 
 _Louis CAD (me)_
 
+<details>
+  <summary><b>More about me… (Click to expand)</b></summary>  
+
 ### I'm proficient in
 - Writing, editing and reviewing **Kotlin** code
   - API design
@@ -43,6 +46,8 @@ You can find me on Kotlin's Slack under the same name, and you can reach me on T
 ### There's more about me
 
 But this README is not set in stone, I'll update it from time to time.
+
+</details>
 
 <!--
 TODO: Tell I can help sponsors with API design
