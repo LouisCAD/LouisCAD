@@ -44,7 +44,7 @@ You can find me on Kotlin's Slack under the same name, and you can reach me on T
 
 ### My Resume
 
-I now have a Resume (made in Kotlin with Compose for Web), which you can check at [github.com/LouisCAD/ResumeComposition](https://github.com/LouisCAD/ResumeComposition).
+I now have a Resume (made in Kotlin with Compose HTML), which you can check at [github.com/LouisCAD/ResumeComposition](https://github.com/LouisCAD/ResumeComposition).
 
 ### There's more about me
 
